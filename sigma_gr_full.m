@@ -11,7 +11,6 @@
 % 
 % Implementation by Ian Williamson <ian.williamson@utexas.edu>
 % based on "G. W. Hanson, Journal of Applied Physics 103, 64302 (2008)"
-
 function sig = sigma_gr_full(freqs,Ef,gamma,T) % C^2/J*sec (S)
 e_const = 1.602176565e-19;  % C
 h_const = 6.62606957e-34;   % J*sec
